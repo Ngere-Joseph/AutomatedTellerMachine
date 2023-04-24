@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ht/bWuMcLN0nNyTRZTOzbH9AaRq8OOsbnW5NkshPfawNB/1GICPQgtRArmnWs0VS3etYgOsz0s7GKm+wdIzW3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OLUCHI\\source\\repos\\ConsoleATM\\ConsoleATM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OLUCHI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

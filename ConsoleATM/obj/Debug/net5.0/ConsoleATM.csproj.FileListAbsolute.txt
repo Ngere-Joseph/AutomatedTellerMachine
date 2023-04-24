@@ -1,0 +1,16 @@
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ConsoleATM.exe
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ConsoleATM.deps.json
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ConsoleATM.runtimeconfig.json
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ConsoleATM.runtimeconfig.dev.json
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ConsoleATM.dll
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ref\ConsoleATM.dll
+C:\Users\OLUCHI\source\repos\ConsoleATM\bin\Debug\net5.0\ConsoleATM.pdb
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.csproj.AssemblyReference.cache
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.AssemblyInfoInputs.cache
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.AssemblyInfo.cs
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.csproj.CoreCompileInputs.cache
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.dll
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ref\ConsoleATM.dll
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.pdb
+C:\Users\OLUCHI\source\repos\ConsoleATM\obj\Debug\net5.0\ConsoleATM.genruntimeconfig.cache
